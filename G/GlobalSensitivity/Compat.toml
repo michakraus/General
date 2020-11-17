@@ -1,0 +1,7 @@
+[0]
+Distributions = "0.24"
+FFTW = "1.2.0-1"
+ForwardDiff = "0.10"
+Parameters = "0.12"
+QuasiMonteCarlo = "0.2"
+RecursiveArrayTools = "2.7.0-2"
